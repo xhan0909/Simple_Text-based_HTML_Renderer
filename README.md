@@ -6,3 +6,5 @@ The program should take in an HTML file and render text as output in ASCII style
 
 **Run:**  
 `$python main.py -f [html file path]`
+
+Some sample html files are included in the `sample_data/` folder.
