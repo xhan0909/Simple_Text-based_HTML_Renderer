@@ -4,4 +4,5 @@ This is a very simple text-based HTML Renderer which currently only supports \<p
 
 The program should take in an HTML file and render text as output in ASCII style.
 
-Run:  `$python main.py -f [html file path]`
+**Run:**  
+`$python main.py -f [html file path]`
